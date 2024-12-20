@@ -15,11 +15,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
-- **Eager Learner**: Constantly exploring and improving my skills in web development.
-- **Tech Enthusiast**: Experienced in React, JavaScript, HTML, and CSS.
-- **Focused Developer**: Working on hands-on projects to solidify my understanding of web technologies.
+- **Aspiring Front-End Developer**: Actively seeking opportunities to contribute and grow in the field of web development.  
+- **Dedicated Learner**: Constantly improving my skills in React, JavaScript, HTML, and CSS through hands-on projects.  
+- **Focused Job Seeker**: Looking for a role where I can apply my knowledge and creativity to real-world challenges.  
+
+📄 [**View My Resume**](https://drive.google.com/file/d/1zKyGlJOQTvbGZzbGZFIIJ9SSkLl5O1mL/view?usp=sharing) 
 
 ---
 
