@@ -69,10 +69,12 @@
 
 ---
 
-## 🎯 Goals
+## 🎯 Professional Goals  
 
-- Brush up on **React Basics**.
-- Build proficiency in **data structures**.
+- **Master Front-End Technologies**: Deepen expertise in React, JavaScript, HTML, and CSS to excel in front-end interviews.  
+- **Interview Preparation**: Focus on cracking front-end interviews with strong knowledge of frameworks, tools, and coding best practices.  
+- **Enhance Problem-Solving Skills**: Continuously practice and refine logic building for JavaScript and React-based solutions.  
+- **Website Design**: Learn and apply advanced web design techniques to create professional and user-centric websites.  
 
 ---
 
@@ -80,9 +82,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunav999&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-
-  ###
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunav999&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=true&order=2" height="150" alt="languages graph"  />
 
   ###
