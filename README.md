@@ -21,7 +21,7 @@
 - **Dedicated Learner**: Constantly improving my skills in React, JavaScript, HTML, and CSS through hands-on projects.  
 - **Focused Job Seeker**: Looking for a role where I can apply my knowledge and creativity to real-world challenges.  
 
-📄 [**View My Resume**](https://drive.google.com/file/d/1zKyGlJOQTvbGZzbGZFIIJ9SSkLl5O1mL/view?usp=sharing) 
+📄 [**View My Resume**](https://drive.google.com/file/d/1GvV-8QEOaagFVGaszlR8Tt4UcW28VBoP/view?usp=drivesdk)
 
 ---
 
