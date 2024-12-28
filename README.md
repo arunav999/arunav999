@@ -7,6 +7,7 @@
 
 ###
 
+<!-- ---------- Image ---------- -->
 <div align="center">
   <img height="300" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
 </div>
@@ -15,6 +16,7 @@
 
 ---
 
+<!-- ---------- About me ---------- -->
 ## 👨‍💻 About Me  
 
 - **Aspiring Front-End Developer**: Actively seeking opportunities to contribute and grow in the field of web development.  
@@ -23,8 +25,16 @@
 
 📄 [**View My Resume**](https://drive.google.com/file/d/1GvV-8QEOaagFVGaszlR8Tt4UcW28VBoP/view?usp=drivesdk)
 
+<!-- ---------- SNAKE PREVIEW ---------- -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arunav999/arunav999/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arunav999/arunav999/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arunav999/arunav999/output/github-snake.svg" />
+</picture>
+
 ---
 
+<!-- ---------- Techincal Skills ---------- -->
 ## 🛠️ Technical Skills
 
 ###
@@ -42,6 +52,7 @@
 
 ---
 
+<!-- ---------- Projects ---------- -->
 ## 🚀 Projects
 
 ### 🌟 Omnifood Website
@@ -71,6 +82,7 @@
 
 ---
 
+<!-- ---------- Professional Goals ---------- -->
 ## 🎯 Professional Goals  
 
 - **Master Front-End Technologies**: Deepen expertise in React, JavaScript, HTML, and CSS to excel in front-end interviews.  
@@ -94,12 +106,14 @@
 
 ###
 
+<!-- ---------- Counter ---------- -->
 <div align="center">
   <img src="https://profile-counter.glitch.me/arunav999/count.svg?"  />
 </div>
 
 ---
 
+<!-- ---------- Connect ---------- -->
 ## 📫 Connect
 
 <div align="left">
@@ -123,11 +137,3 @@
   </a>
 </div>
 
-###
-
-<!-- SNAKE PREVIEW -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arunav999/arunav999/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arunav999/arunav999/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arunav999/arunav999/output/github-snake.svg" />
-</picture>
